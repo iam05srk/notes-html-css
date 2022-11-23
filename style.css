@@ -6,7 +6,6 @@
 body{
     min-height: 100vh;
     background: #d3d3d3;
-    font-family: 'Roboto' , sans-serif;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -15,6 +14,7 @@ body{
 ::-webkit-scrollbar{
     display: none;
 }
+
 .paper{
     position: relative;
     background: rgba(190, 204, 208, 0.944);
